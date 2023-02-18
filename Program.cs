@@ -10,8 +10,6 @@ for (int i = 0; i < count; i++)
     mass[i] = Console.ReadLine();
 }
 
-Console.Write("\nРезультирующий массив: ");
-size_String(mass);
 
 Console.ReadLine();
 

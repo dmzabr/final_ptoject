@@ -37,5 +37,3 @@ int size_String(string[] mass)
 }
 
 
-Console.Write("\nРезультирующий массив: ");
-size_String(mass);
